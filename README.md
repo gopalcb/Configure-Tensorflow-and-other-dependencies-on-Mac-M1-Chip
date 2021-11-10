@@ -1,4 +1,4 @@
-# Configuration of Tensorflow and other dependencies on Mac M1 Chip: 
+# Configuration of Tensorflow and other dependencies on Mac M1 Chip:  
 
 Installing the Python project dependencies including Tensorflow on Apple silicon ARM M1 chip is not similar to the regular installation process on Intel or AMD processor. This repository might be useful for migrating a Python project in order to run on M1 chip.
 
