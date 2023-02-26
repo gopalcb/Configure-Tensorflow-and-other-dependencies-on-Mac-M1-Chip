@@ -6,7 +6,7 @@ Installing the Python project dependencies including Tensorflow on Apple silicon
 
 Open the terminal and run the following command to list all files and directories including hidden files and directories.
 
-```bash
+```bash 
 % ls -a
 ```
 
