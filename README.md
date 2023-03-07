@@ -7,7 +7,7 @@ Installing the Python project dependencies including Tensorflow on Apple silicon
 Open the terminal and run the following command to list all files and directories including hidden files and directories.
 
 ```bash 
-% ls -a
+% ls -a 
 ```
 
 Now look for the ***.anaconda*** directory. If the directory exists, then remove the directory.
